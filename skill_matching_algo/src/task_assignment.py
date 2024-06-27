@@ -37,14 +37,11 @@ def skill_based_matching_algorithm(squad, sprint, max_bandwidth):
   final_assignment = dict()
   for employee in squad.employee_list:
     final_assignment[employee.cdsid] = []
-
-  print(skill_cost_matrix)
   
   for i in range(no_of_tasks):
     best_user = -1
     best_cost = 1000000.00
     story = sprint.stories[i]
-    print(story.story_id)
     for j in range(no_of_employees):
       if story.story_point <= employee_bandwidth[j]:
         if best_cost > skill_cost_matrix[j][i]:
