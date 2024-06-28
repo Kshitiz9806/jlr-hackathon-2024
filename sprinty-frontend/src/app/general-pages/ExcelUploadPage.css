@@ -1,0 +1,56 @@
+.bold-title {
+    font-weight: bold;
+  }
+  
+  .file-upload-row {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: all 0.5s ease;
+  }
+  
+  .file-upload-row:hover {
+    background-color: #e9ecef;
+    transform: translateY(-5px);
+  }
+  
+  .upload-label {
+    font-size: 18px;
+    font-weight: 500;
+    color: #495057;
+  }
+  
+  .file-input {
+    display: none;
+  }
+  
+  .upload-button {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 5px 10px;
+    font-size: 14px;
+  }
+  
+  .fade-enter {
+    opacity: 0;
+  }
+  .fade-enter-active {
+    opacity: 1;
+    transition: opacity 500ms;
+  }
+  .fade-exit {
+    opacity: 1;
+  }
+  .fade-exit-active {
+    opacity: 0;
+    transition: opacity 500ms;
+  }
+  
