@@ -1,0 +1,360 @@
+,Unnamed: 0,Issue Key,Summary,Description,Assignee,customfield_10010,customfield_11351,customfield_11352,Skills
+0,0,AEX-155244,SWE 5 Update Wired Mock client for Automating Commit APIs with negative scenarios and boundary conditions ,Update Mock clients for automation of Commit  APIs with negative scenarios and boundary conditions,ppable1,"Updated Wired Mock client with automation of Commit & Rollback APIs with negative scenarios and boundary conditions_x000D_
+",To Update WIred Mock client for automation of Commit & Rollback APIs with negative scenarios and boundary conditions,we can complete swe5,"C++, Gherkin, Testing"
+1,1,AEX-155234,SWE6 Automated launching Corvus and executing test cases,We need to be able to launch corvus diagnostic tool from terminal in order to executing automated testing pipeline for SWE6 We will get in touch with the software factory team to understand if they have any supporting solutions and will also contact validation team for the same,ppable1,,to learn about Corvus,i can execute test cases for swe6,Corvus
+2,2,AEX-155229,SWE5 Writing CAPL Script for S2S PDU 2,"Learn about CAPL
+Automate prt framework launching via python",ppable1,CANOE launching and loading test modules automated and integrated into SWE5 automtaion script,to learn about CAPL scripting,i can write capl script for s2s pdu2 testing,"capl, canoe"
+3,3,AEX-152005,SWE5 Testing automation,SWE5 automation,ppable1,"Updated Mock clients for negative scenarios and boundary conditions_x000D_
+",To automate swe5 testing,we can automate the creation of test execution report,"python, c++"
+4,4,AEX-146886,"SWE 5 Update Wired Mock client for Automating Transfer, Update & Activate APIs with negative scenarios and boundary conditions ","Update Mock clients for automation of Transfer, Update and Activate APIs with negative scenarios and boundary conditions",ppable1,"Updated Wired Mock client with automation of Transfer, Update and Activate APIs with negative scenarios and boundary conditions_x000D_
+","To Update WIred Mock client for automation of Transfer, Update and Activate APIs with negative scenarios and boundary conditions",we can complete swe5,"C++, Gherkin, Testing"
+5,5,AEX-145428,BSDIFF Follow up with NVIDIA, Follow up discussions with NVIDIA,ppable1,A report detailing the experiemnet results,To validate the BSDIFF release with the patchset,we can share the findings with NVIDIA,Communication
+6,6,AEX-145401,SWE 5 Drafting test cases for swdl interfaces,"Drafting gherkin test cases for interfaces in SWDL application : 
+ s2s_ccplex_aurix_swdl_swdlac_sender_service
+ s2s_aurix_ccplex_all_pdu_receiver_service",ppable1,"Test cases mapped to jira tickets_x000D_
+",To create gherkin test cases,we can complete swe5,Gherkin
+7,7,AEX-145191,Review : Create Sanity Testcases for Orin Wired Update,Review Sanity testcases for Orin Wired Update,ppable1,Review Sanity testcases for Orin Wired Update,,,Debugging
+8,8,AEX-143604,NVDIFF support in delta script, nvdiff delta package support in delta script,ppable1,Nvdiff support enabled in creating package ,To add nvdiff packaging support for delta package in delta script,we can share the script with integration team,Communication
+9,9,AEX-141466,BSDIFF Validation for POC 243," NVIDIA has delivered the latest 243 version of the BSDIFF POC
+ This task will include validating this release on two avos release versions
+We will also test this on the target ",ppable1,A report detailing the experiement results,To validate the BSDIFF release with the patchset,we can share the findings with NVIDIA,Testing
+10,10,AEX-141431,SWE5 Sanity testing SWDL mock adaptive application for Orin Wired Update, test the adaptive SWDL client application SO THAT basic IPC communication can be tested,ppable1,SWDL cli applications is tested for basic IPC communication and check in any changes to git repo,to test the adaptive SWDL client application,it doesn't crash other applications,Testing
+11,11,AEX-140279,SWE4: Updating ISL based on new packaging strategy,updating ISL based on new packaging strategy,ppable1,updated ISL based on new packaging strategy,to update ISL based on new packaging strategy,we can have modified isl states,C++
+12,12,AEX-136193,"SWE4: Changing commit, activate and post activate classes to adapt to new packaging strategy",DDU Images generated,ppable1,"MR with modified classes for commit, activate and post-activate states",to  change these states classes,we can avoid using metadata files and use aurix route instead,C++
+13,13,AEX-132073,SWE4: Testing BSDIFF POC on target,DDU Images generated,ppable1, Create ddu package for the latest 520 release,to test bsdiff poc on target,we can share the findings with NVIDIA,Testing
+14,14,AEX-132072,SWE4: Flashing target with BSDIFF compliant avos release,To complete flashing of devkit using BSDIFF supported AVOS release from NV,ppable1,Target flashed with appropriate version of AVOS release,to flash target ,we can proceed with target testing for bsdiff,Testing
+15,15,AEX-132071,SWE4: DDU generation for 520,DDU Images generated,ppable1, Create ddu package for the latest 520 release,to create ddu images for 520 version ,we can proceed with target testing for bsdiff,Testing
+16,16,AEX-130123,Modifying deltapy script for DDU Generation, Adding features to create ddu images in the delta generation script,ppable1, MR merged with the functional deltapy,To add functionalities to the deltapy,I can provide functionality to generate DDU images,"Python, testing, debugging"
+17,17,AEX-129173,SWE2: TRM requirements for packaging strategy and package extraction,Moving requirements to release state,ppable1," Remove packaging strategy, covered as part of the SOTA
+ Software package (OTA pending for released state)
+Extraction of package requirements in TRM
+
+Moving requirements to Release State on TRM : Extraction of package",to add requirements to TRM for action items mentioned in the acceptance criterion,we can move the corresponding requirements to released state after review them,TRM
+18,18,AEX-126425,SWE4 Fixing SIMS 6823 - FaltMngrCcplex app running but logs not coming in ORIN folder and app name is not coming in running application list in EXEClog,Fixing the SIMS issue 6823,ppable1,,,,"C++, Testing"
+19,19,AEX-126231,SWE4 Packaging strategy for SOTA,Adding requirements to the trm for sota packages,ppable1,,,,TRM
+20,20,AEX-125913,SWE5 Testing SWDL mock adaptive application for basic IPC communication, test the adaptive SWDL client application SO THAT basic IPC communication can be tested,ppable1,SWDL cli applications is tested for basic IPC communication and check in any changes to git repo,to test the adaptive SWDL client application,basic IPC communication can be tested,Testing
+21,21,AEX-122865,,"Removing Compiler flags from CMAKE Lists
+[SIMS-4743] Incorrect use of CMAKE_C_FLAGS and CMAKE_CXX_FLAGS in software_update_orin - Jaguar Land Rover JIRA (jlr-apps.com)",ppable1,,,,CMake
+22,22,AEX-118915,SWE4 Connection handler static analysis,klocwork static analysis based code changes to connection handler,ppable1,Connection Handler klocwork,,,C++
+23,23,AEX-118888,Creating end to end sequence diagram for SOTA wrt SWDL application in MSOSA,Reviewing the overall SOTA flow and adding sequence diagrams in MSOSA,ppable1,MSOSA diagrams for the SOTA sequence,,,Msosa
+24,24,AEX-117057,SWE4 Drive Update Abstraction Static Analysis,klocwork static analysis based code changes for drive update abstraction layer,ppable1,Drive Update Abstraction Code cleanup,,,C++
+25,25,AEX-117041,SWE3 - Drafting delta image scripts for integration team,Drafting the script for integration team to implement delta generation,ppable1,An MR with the integration team scripts,,,Python
+26,26,AEX-117038,SWE3 - Validation of bsdiff release from Nvidia,"Validating NVIDIA's bsdiff release du-delta-poc-rel-05 on orin images _x000D_
+",ppable1,"A confluence page with compression results for the experiment _x000D_
+Currently the integration team hasnt released the licenses for qnx safety os 224_x000D_
+So we have to populate the results for the older versions of integration team images",,,testing
+27,27,AEX-113694,SWE 3 Implementing Logging Wrapper for SWDL,"Creating a logging static library to be used across components of SWDL_x000D_
+The logging module has ability to use std::cout and ara logger depending on the build environment we are using",ppable1,Code tested with GTest suite,Add logging module to the SWDL,so that we can replace std::cout with the logger implementation,C++
+28,28,AEX-94833,SWE4: BSDIFF Validation Experiments,Validation of BSDIFF release with the patchset provided in the mail chain with David Lang and team,ppable1," Confluence page with the results of validation
+ Email sent to relevant stakeholders ",To validate the BSDIFF release with the patchset,I can send the validation results to relevant stakeholders,Testing
+29,30,AEX-80721,ADAS Pilot Training Review - Detecting Memory Leaks in C/C++ Applications, Pranav please find the ticket assigned for the course review of Detecting Memory Leaks in C/C++ Applications. Please see details in EPIC to access the course content and how to fill in the review record. Thanks,ppable1,,,,C++
+30,32,AEX-72030,Understanding the gaps in SWE1 for ISL,Understanding the gaps in SWE1 for ISL,ppable1,"1 Changed requirements according to Krunal_x000D_
+2 Identification of gaps between SWE3 and these requirements",,,TRM
+31,33,AEX-62132,"SWE 3 Implementing rollback function for ISLState::Commit, ISLState::Activate",Bug Fixing- ISL,ppable1,Code tested with GTest suite,add functionality to rollback from states,we can ensure border cases are taken care of and code is working as intended,"C++, debugging"
+32,34,AEX-60042,Implementation of ISL interfaces,Implementation of ISL interfaces,ppable1,Raise MR for ISL Implementation,to implement ISL interfaces,SUM can use the ISL interfaces to invoke software update,C++
+33,35,AEX-56306,Development of bootmanager-plugin,"Post confirmation from Rakesh exploration activity_x000D_
+Communication gateway must work_x000D_
+Bootmanager in Aurix should work { SomeIP }",ppable1,,,,C++
+34,36,AEX-47626,SWE 1 Create draft for requirements for Logging,"Define, draft and review SWE-1 requirements for Logging_x000D_
+_x000D_
+DoD: The requirements reviewed, accepted and documented into TRM",ppable1,,to define requirements for Synchronisation between Diagnostics & OTA Sessions,we can move ahead to work on SWE2 and SWE3,TRM
+35,37,AEX-43590,Interdependency review ,Discussion with team members about interdependent requirements,ppable1,,,,TRM
+36,38,AEX-43588,Review  of requirement,Second review of requirements,ppable1,,,,TRM
+37,39,AEX-43586,Review  1 of requirements,First review of the requirements,ppable1,,,,TRM
+38,40,AEX-41153,"AA Setups, QNX Setup","Adaptive Autosar setup, QNX setup required every week to compile and verify code to fix any found issues",ppable1,"1 Processes and tools set up for AA and QNX drive update_x000D_
+2 Documentation of processes used_x000D_
+3 Documentation of issues found during testing",to establish processes and tools on AA and QNX update ,I can test code developed and fix any issues,Autosar adaptive
+39,41,AEX-40980,Integrate JSON Parser for Orin ISL,"Integrate JSON Parser for Orin ISL , test and checkin",ppable1,"Integrate, Implement , test json Parser for Orin ISL and check-in to git ",to Json Parser utility for Orin ISL,Orin ISL can fetch and parse json metadata json files,C++
+40,42,AEX-40979,Develop Individual ISL States for ISL Diagnostic update,"Implement, test and review Initialization layer for Orin ISL After reviewed and review comments resolved , check in to git repository",ppable1,,to develop the Initialization layer for Orin ISL,we can proceed to work on rest of business logic for ISL,"C++, testing, debugging"
+41,43,AEX-40977,SWE 1 Requirements for Synchronisation between Diagnostics & OTA Sessions,"Define, draft and review SWE-1 requirements for Synchronisation between Diagnostics & OTA Sessions.
+We want to define how precedence of one update mode over other is defined within ISL. For example, we want to define requirements in a case where an update in OTA is interrupted by a diagnostic update and vice-versa.
+DoD: The requirements reviewed, accepted and documented into TRM.",ppable1,,to define requirements for Synchronisation between Diagnostics & OTA Sessions,we can move ahead to work on SWE2 and SWE3,TRM
+42,44,AEX-40972,Modifying DAL APIs for deploy metadata,Modifying DAL APIs for deploy metadata,ppable1,Reviewed API documentation for LCM component within MSOSA,to create API documentation for LCM ,"the workings, requirements and interactions of LCM are defined completely","C++, Msosa, TRM"
+43,45,AEX-38251,Draft SWE1 Software Requirements for Orin ISL ,"Draft software requirements for Orin ISL for modules :
+Initialization layer, Public layer, State machine,
+Abstraction of NVIDIA,
+Utility",ppable1,SWE level requirements for Orin ISL drafted in TRM,to draft swe level requirements for ORIN ISL,"we can complete SWE1 and move ahead to SWE2,3",TRM
+44,46,AEX-36776,Understanding scope of ISL( installer service library),"The Install service Library (ISL) is a software component that resides on the Vehicle ECU responsible for updating software on the ECU.
+DoD:
+A confluence page with the learnings from the study as well as review session.",ppable1,"A review session with a team member_x000D_
+A confluence page documenting the learnings",to understand what ISL is and its scope,so that I can perform my future tasks,Communication
+45,47,AEX-36767,Understanding ways to update : OTA / diagnostics,"All modules within the ECU - CCPLEX, FSI and Aurix, are updateable using both Diagnostic based update (UDS) as well as OTA, adhering to the standard diagnostic protocols, diagnostic requirements and interfaces defined by JLR.
+
+DoD:
+A confluence page with the learnings from the study as well as review session.",ppable1,"A review session with a team member_x000D_
+A confluence page documenting the learnings",to study about ways to update OTA and Dignostics,"so that I can get familiar with concepts like UDS, OTA, Diagnostics ",communication
+46,48,AEX-36763,SW flash and hands-on for memory layout on devkit,"Full image update is one of the ways to update the ORIN devkit Having a hands-on knowledge of the process is crucial for the team We should go through the documentation and perform a full image update_x000D_
+DoD:_x000D_
+Completion of full image update using the documented steps",ppable1,Completion of full image update using the documented steps,go through the documented steps of full image update,I can get familiar with the devkit and perform a full image update,testing
+47,49,AEX-35372,Training for TRM and get write access TRM request," To review the training materials provided for TRM and get accustomed with the usage.
+  To complete TRM assessments
+ To request approval for TRM  Write access.",ppable1," Basic understanding of TRM
+ Hands-on tutorials of TRM
+ Passing TRM assessments
+ Getting access for TRM",to get well versed with TRM training,it will facilitate to draft requirements in the upcoming sprints,TRM
+48,50,AEX-16476,Ramp Up: Software Update Manager workflow,"As a SW Architect
+
+I want to understand SUM workflow and collaborate with SUM team for the same
+
+So that 
+
+DoD:
+  Understand the workflow of SUM
+ Discussions with SUM team regarding any queries
+  How we can use this understanding to develop SUM for DADC",ppable1,,,,communication
+49,51,AEX-160470,SWE3 Send dummy signal (GetActiveBootchain) for SIMS-9362,Send dummy signal (GetActiveBootchain) from Idle state to validate CCPLEX->AURIX communication,asriva34,Send dummy signal (GetActiveBootchain) from Idle state to validate CCPLEX->AURIX communication,to Send dummy signal (GetActiveBootchain) from Idle state ,to validate CCPLEX->AURIX communication,"c++, autosar adaptive, testing"
+50,52,AEX-160191,SWE6 Test Signed F188package update through corvus,To test and verify signed image update for signed F188 package through corvus,asriva34,Validation of signed image update for signed F188 package using corvus,update using signed F188 package,wired update can be validated,"corvus, testing"
+51,53,AEX-159128,review the full image update,To review and verify the full image signed update,asriva34,,,,debugging
+52,54,AEX-158232,SWE3 Ccplex Aurix Changes for NV Bootchain Configurator,"When SetNextBootchain API provided by NVM is called, the execution of the task takes around 3 second.
+ In case we issue any other command for Setting or Getting the bootchain, we get an error on the Aurix console and the NVM persistency blocks are corrupted.
+ This leads to invalid response from getNext bootchain in the subsequent power cycles due to which ORIN does not boot up.",asriva34,"No NV block Corruption at NV API queries_x000D_
+_x000D_
+Fix Delivered:_x000D_
+_x000D_
+orin_build fix MR: https://git-gddsdojlrmotorcom/ADAS/loki/sw-integration/loki-builds/orin_build/-/merge_requests/453 _x000D_
+aurix_build fix MR: https://git-gddsdojlrmotorcom/ADAS/loki/sw-integration/loki-builds/aurix_build/-/merge_requests/543  ",to make changes in software-update-orin and software-update-aurix,Bootchain configurator works fine,"c++, testing, debugging, trace32"
+53,55,AEX-157322,SWE3 SIMS 5472 fixes,Code Modifications for SIMS-5472 ,asriva34,SIMS 5472 Changes are realised,,,"debugging, testing"
+54,56,AEX-152118,SWE3 DID D05B implementation (response codes 0x41 to 0x73),"Implementation of DID D05b response codes Response codes covered:_x000D_
+E_COMMIT_UNSUCCCESSFUL = 0x41,_x000D_
+E_COMMIT_INPROGRESS = 0x42,_x000D_
+E_ROLLBACK_SUCCESS = 0x50,_x000D_
+E_ROLLBACK_FAILURE = 0x51,_x000D_
+E_ROLLBACK_INPROGRESS = 0x52,_x000D_
+E_TIMEOUT_PENDNG_ROLLBACK_ACTIVATION = 0x60,_x000D_
+E_SYNC_PENDING = 0x70,_x000D_
+E_SYNC_INPROGRESS = 0x71,_x000D_
+E_SYNC_UNSUCCESSFUL = 0x72,_x000D_
+E_UNDEFINED = 0xFF,_x000D_
+E_VALIDATION_SUCCESS_WAITING_INSTALLATION = 0x73",asriva34,Code merged for D05B response codes,write and test code blocks,we get specific responses for D05B,"c++, corvus, testing"
+55,57,AEX-152095,SWE3 DID D05B implementation (response codes 0x014 to 0x40),"Implementation of DID D05b response codes Response codes covered:_x000D_
+E_SOFTWARE_EXECUTION_ERROR = 0x14,_x000D_
+E_Wait_ACTIVATION = 0x15,_x000D_
+E_REPROGRAM_MAXCOUNT_REACHED = 0x16,_x000D_
+E_SOFTWARE_HARDWARE_VERSION_INCOMPATIBLE = 0x17,_x000D_
+E_INSTALLATION_INPROGRESS = 0x18,_x000D_
+E_INSTALLATION_SUCCESSFUL = 0x19,_x000D_
+E_VALIDATION_SUCCESS_WAITING_SWITCHBANK = 0x1A,_x000D_
+E_VALIDATION_UNSUCCESSFUL = 0x1B,_x000D_
+E_SWITCHBANK_SUCCESSFUL_PENDING_ACTIVATION = 0x20,_x000D_
+E_SWITCHBANK_UNSUCCESSFUL = 0x21,_x000D_
+E_SWITCHBANK_INPROGRESS = 0x22,_x000D_
+E_FIRSTRUNTEST_SUCCESSFUL = 0x30,_x000D_
+E_FIRSTRUNTEST_INPROGRESS = 0x31,_x000D_
+E_FIRSTRUNTEST_UNSUCCESSFUL = 0x32,_x000D_
+E_COMMIT_SUCCESSFUL = 0x40,",asriva34,Code merged for D05B response codes,write and test code blocks,we get specific responses for D05B,"c++, corvus, testing"
+56,58,AEX-152083,SWE3 DID D05B implementation (response codes 0x00 to 0x13),"Implementation of DID D05b response codes Response codes covered:_x000D_
+E_LASTSWDL_SUCCESS = 0x00,_x000D_
+E_LASTSWDL_INCOMPLETE = 0x01,_x000D_
+E_FAILED_SIGNATURE_CHECK = 0x02,_x000D_
+E_SWVERSION_MISMATCH = 0x03,_x000D_
+E_CHECKVALID_APPLICATION_NOTRUN = 0x04,_x000D_
+E_SOFTWARE_DOWNLOAD_INPROGRESS = 0x05,_x000D_
+E_SOFTWARE_DOWNLOAD_INCOMPLETE = 0x06,_x000D_
+E_SWVERSION_MISMATCH_CONTROLSLAVE_NODE = 0x07,_x000D_
+E_WAIT_VALIDATE_CONFIGURATION = 0x08,_x000D_
+E_VALIDATE_CONFIGURATION_INPROGRESS = 0x09,_x000D_
+E_CONFIGURATION_PARAMETER_CONFLICT = 0x0A,_x000D_
+E_CONFIGURATION_PARAMETER_HARDWARE_MISMATCH = 0x10,_x000D_
+E_INVALID_PARAMETER_VALUES = 0x11,_x000D_
+E_CONFIGURE = 0x12,_x000D_
+E_CONFIGURATION_NOTSUPPORTED = 0x13,",asriva34,Code merged for D05B response codes,write and test code blocks,we get specific responses for D05B,"c++, corvus, testing"
+57,59,AEX-146011,SWE3 S2S fixes for SIMS 8313,SIMS-8313 fix by integrating jlr_swdl_application with updated ARXML,asriva34,"SIMS-8313 is fixed, no crashes for DFMC",to integrated jlr_swdl_application with updated ARXMLs,SIMS-8313 can be fixed,"autosar adaptive, c++, debugging, testing"
+58,60,AEX-141413,SWE3 Validating S2S binding (configuration changes),IP configuration changes,asriva34,CCPLEX <--> Aurix Communication Successful,,,"autosar adaptive, debugging"
+59,61,AEX-138155,SWE4 Perform Interface testing for Orin UDP messages using Canoe,to validate S2S (Aurix to CCPLEX) by sending signal using CANOE  tool,asriva34,,,udp messages to orin,"canoe, testing"
+60,62,AEX-131985,SWE3 Changes in Diag Controller Interface for Update Scenarios, Code changes for multiple update scenarios for f124 and f188 packages ,asriva34,Successful Update of Devkit/TAMS with multiple update requests,to make code changes for SWDL,we can cover multiple scenarios for update API call for f124 and f188 packages,"c++, testing"
+61,63,AEX-130985,SWE3 Logging Integration for ISL,"Modifications in current logger_x000D_
+Integration of logger for ISL module",asriva34,"Logging tested in linux_x000D_
+ARA Logging tested on TAMS","to modify the logger, and integrate it in sub-components like ISL",logging use case is easier and logging module can be used,"c++, cmake"
+62,64,AEX-129165,SWE4 GTest cases for ISL,To write google test using gtest and gmock for ISL state classes,asriva34,Code coverage above 90%,write google test cases for ISL,we get 90% code coverage,"c++, testing"
+63,65,AEX-125901,SWE3 Integration of PREEvision model," PREEvision model to be provided for SWDL interfaces
+  [https://git-gdd.sdo.jlrmotor.com/ADAS/loki/platform-services/CCPLEXServices/-/merge_requests/23]
+  [https://git-gdd.sdo.jlrmotor.com/ADAS/loki/platform-services/CCPLEXServices/-/merge_requests/14]
+  Integration of Model for our component
+ Code Changes
+ Bug Fixes",asriva34,Fixed compilation issues,to replace our ARXMLs with PREEvision modelled ARXLs ,"our component is inline with other components and we can facilitate services like s2s, DM","autosar adaptive, debugging, testing"
+64,66,AEX-125889,SWE3 S2S Pdu ARXML changes,https://jiradevopsjlr-appscom/browse/SIMS-5161,asriva34,"Adding SWDL I signal and I signal triggerings in model, Application should successfully launch in integration build  ",,,"autosar adaptive, c++"
+65,67,AEX-125885,SWE3 Machine Model ARXML changes for S2S   ,https://jiradevopsjlr-appscom/browse/SIMS-5161,asriva34,Application launching Successfully after machine model changes,,,"autosar adaptive, testing"
+66,68,AEX-124226,SWE3 Validate S2S running with PREEvision changes,"Making jlr_swdl_appllication run independently with S2S enabled to proceed with testing_x000D_
+TAMS configuration",asriva34,"Making jlr_swdl_appllication run independently with S2S enabled to proceed with testing_x000D_
+TAMS configuration",to facilitate communication between aurix and ccplex,we can send and receive bootchain configuration signals,testing
+67,69,AEX-123789,SIMS-6457- SWDL 0074 crashing SomeIP Deamon,Fix issue: [SIMS-6457] SWDL 0074 crashing SomeIP Deamon - Jaguar Land Rover JIRA (jlr-appscom),asriva34,Issue is fixed and tested,,,"debugging, testing"
+68,70,AEX-117059,SWE3 SWDL Drop 7 Integration,"Providing descriptions for SWDL services for PREEvision modelling_x000D_
+_x000D_
+https://git-gddsdojlrmotorcom/ADAS/loki/platform-services/CCPLEXServices/-/tree/aex-115251-ccf-client-services-for-drop8?ref_type=heads",asriva34,,,,"communication, autosar adaptive"
+69,71,AEX-116539,SWE3 Dynamic File Manager,Serve Metadata files to dumaster,asriva34,Test for  all the phases of update using generated metadata,,,c++
+70,72,AEX-97703,SWE3 Validate and Test Rollback Sequences,Validate and test the patch for rollback sequences [AEX-62132],asriva34,Rollback functions properly,,,"debugging, testing"
+71,73,AEX-86895,SWE4 GTest for Idle state  ,Unit test for Idle State using gtest and gmock framework ,asriva34,Code coverage >= 90% for Idle state,to create unit tests for Idle state,We can get code coverage reports for Idle state,"c++, testing"
+72,74,AEX-77116,Develop Tar package extractor,Integrate the tar package extractor using ZLib,asriva34,Tar package extractor,,,"c++, cmake"
+73,75,AEX-62144,GCoverage for Utilities,Integrating task runner utilities in orin ISL implementation,asriva34," Integration of task runner
+ Test cases passed for all APIs in OrinImpl",to integrate task runner utility in ISL,I can run asynchronous APIs efficiently using task runner,c++
+74,76,AEX-40985,GTest Suite For Utilities,"DoD:
+  Design the GTest suite for utilities
+  Upload and merge it with master in gitlab",asriva34,"DoD:_x000D_
+_x000D_
+Design the GTest suite for utilities_x000D_
+Upload and merge it with master in gitlab",,,"c++, testing"
+75,77,AEX-38254,SWE3 Handle Persistent data for ISL,"Handle Persistent data for states, update resume info, other data that needs to be cached for ISL diagnostic use case",asriva34,"Peristent handling implemented, tested and checked-in to git",to implement persistent handling for ISL diagnostic usecase,we can re use or store cache info needed for diagnostic update,"c++, autosar adaptive"
+76,78,AEX-32440,Full Image Update test,Provide file read support for ISL so that we can initialize ISL based on the data in persistency,asriva34,Code reviewed and merged with the master,to provide file read support for ISL ,we can read data from persistency,c++
+77,79,AEX-20204,Fixing Tar Extractor,Fixing tar extractor for extracting rooted tar files,asriva34,,,we can test the SUM apis,"c++, debugging"
+78,80,AEX-159860,Aurix manual testing for integration,Identify all testcases and complete the manual testing for aurix for integration to both PRT and aurix,rbatish,The build for aurix should work and be integrated in aurix_build,,,"trace32, testing"
+79,81,AEX-159859,Aurix integration to aurix_build and PRT,make the build for aurix work and be integrated in aurix_build,rbatish,The build for aurix should work and be integrated in aurix_build,,,cmake
+80,82,AEX-156743,Integration of integration script and delta script ,Have a meet with integration team and make sure all things are done for the script to be integrated in integration pipeline,rbatish,script should be integrated in integration pipeline,to follow up with integration team,we can integrate the script to pipeline,communication 
+81,83,AEX-156686,Big fixing for active bootchain,Following up story for sims https://jiradevopsjlr-appscom/browse/SIMS-9507,rbatish,Active bootchain is working fine,,,"trace32, testing, C++"
+82,84,AEX-156644,PRT prep release,Follow with the changes and make sure for the aurix integration biweekly and making others know about the release and the process,rbatish,Accepted biweekly,,,communication
+83,85,AEX-155146,Aurix SWUD PRT -  Automated test for Drop 8  - Jump back interface ,"Aurix SWUD PRT -  Automated test test for Drop 8
+  test jump back interface",rbatish,"ATS based Test implemented and tested _x000D_
+MR raised ",,,canoe
+84,86,AEX-150243,SWE3 Understanding DADHA PRTI delivery,"To integrate our component into PRTI pipeline, we might need some pre-requisites This ticket covers it",rbatish,"Document pre-requisites as part of ticket / Confluence page_x000D_
+https://confluencedevopsjlr-appscom/display/NGAE/Guidelines+-+DADHA+and+DADSA+PRTI+delivery",,,Communication
+85,87,AEX-150213,SWE2 Design discussion for tegrarecovery,"https://jiradevopsjlr-appscom/browse/SIMS-8798_x000D_
+As part of this SIMS, we have to own tegrarecovery and need to change the way tegrareset is being implemented at the moment",rbatish,MSOSA artefacts for implementation of tegrarecovery,to create architecture for tegrarecovery,we can get rid of the global variable tegrareset,"msosa, communication"
+86,88,AEX-150185,SWE3 To deliver the AURIX SWC to DADHA PRTI,"As part of new process, swdl aurix application has to be delivered as part of PRTI",rbatish,Application merged as part of PRTI branch: https://git-gddsdojlrmotorcom/ADAS/loki/PRTI/DADHA_Platform_Train/-/tree/master?ref_type=heads,to merge swdl_aurix application in prti pipeline,it can be easily merged for drop-10,Cmake
+87,89,AEX-146871,SWE3 Validation of SWDL SWC component for vlca on Drop8 aurix base image,"For the two new features added to SWDL SWC as part of drop-8 we need to verify whether they are working as intended in drop-8 base image and fix if there are any issues that we encounter
+
+Features:
+  Registering to VLCA state",rbatish,Sanity test for drop 8 image for Aurix with features verified,to test aurix drop-8 image,we can verify whether swdl swc is working as intended,"trace32, testing"
+88,90,AEX-145532,SWE3 Modification in packaging script for new feature,to write code for making modifications to packaging script so that new feature can be delivered to integration team,rbatish,MR merged to software-update-orin ,to write code for making modifications to software update orin,new feature can be delivered to integration team,"Python, Debugging"
+89,91,AEX-143059,SWE3 SWDL changes for retrieving vlca data,Software update orin will be updated to get the vlca states in the orin from the aurix signal to orin,rbatish,MR raised to software-update-orin ,to write code for subscribing to vlca,the required functionality can be achieved in drop8,C++
+90,92,AEX-141013,Provide an overview for the signed and unsigned package generation for the integration team ,"overview of the scripts, msosa diagram and confluence page to the integration team",rbatish,"presentation to the integration team is done_x000D_
+",,package script to integration team,"msosa, communication"
+91,93,AEX-138169,Completion of msosa and confluence page for the signed and unsigned package generation for the integration team ,"submission of the scripts, msosa diagram and confluence page to the integration team",rbatish,review by rajesh of the msosa diagram and the requirements along with the confluence page,,package script to integration team,"msosa, communication"
+92,94,AEX-138164,SWE 3: Cysec: Verification of signed packages in ISL,verification of signed packages in ISL,rbatish,,,signed packages through ISL,"testing, C++"
+93,95,AEX-132338,modelling for VLCA in autosar,modelling in the autosar classic for the SWDL SWC componect to register methods in VLCA,rbatish,,,,autosar classic
+94,96,AEX-131993,SWE 3 : Discussion with integration team and add support with auth and val,Discussion would be done with integration team and additional support would be given addition of authorization and validation in package generation,rbatish,package generation working fine,code changes would be done in the package generation for integration team,package could be generated with authorization and validattion,"communication, python"
+95,97,AEX-131984,SWE 1: TRM requirement validation for cybersecurity,validation of requiments of TRM in for cybersecurity,rbatish,,validation of TRM requirements,it can be validated,"TRM, communication"
+96,98,AEX-129179,SWE 4 Validation of package using authentication,As a developer i want validation of package would be done by doing sample drive update on both TAMS and devkit using the generated package with dupkg,rbatish,sample drive update done succefully with orin running, validation of package would be done ,sample drive update works on both TAMS and devkit using the generated package with dupkg,testing
+97,99,AEX-128377,Package generation with authentication using dupkg,generation of package for sample drive update in devkit and TAMS using dupkg,rbatish,,,,python 
+98,100,AEX-118594,SWE3 Lifecycle management of core-sum in SWDL application,Updating the software update orin repo with serve functions of core-sum,rbatish,,,,C++
+99,101,AEX-118543,SWE4 validation using the delta image ,Validating the lifecycle manager using the delta image,rbatish,,,,testing
+100,102,AEX-117018,Implementation of Update Manager,Implementation of update manager from the patch created,rbatish,,,,C++
+101,103,AEX-116745,Generation of delta packages using NVDiff,create a package using nvdiff possibly with drop 5 and drop 6b images,rbatish,,,,debugging 
+102,104,AEX-114427,SWE3 POC for package creation,"POC for creating two packages, one for F124 and one for F188",rbatish,POC demonstrated to integration team ,to create scripts to generate two packages,integration team can integrate it within their pipeline,python
+103,105,AEX-159790,SWE6 Support and validation for SIMS-10070,To support and validate fixes provided for SIMS-10070,kanand,Validated SIMS-10070 and update with packages above 4GB can be performed through corvus,support and validate SIMS-10070,updates above 4GB can be performed through corvus,"debugging, corvus, communication"
+104,106,AEX-159786,SWE6 Test Signed F124 package update through corvus,To test and verify signed image update for signed F124 package through corvus,kanand,Validation of signed image update for signed F124 package using corvus,update using signed F124 package,wired update can be validated,"testing, debugging"
+105,107,AEX-155299,SWE4 Validation of D05B response codes from SWDL application,To validate different response codes from SWDL application according to various states,kanand,We validate the response codes for D05B,to test response codes from D05B interface,swdl status is responded accordingly,"testing, debugging, corvus"
+106,108,AEX-150239,SWE4 Validating ECU Reset 11x01,To validate ECU Reset ( service 11x01) implemented by Diagnostics team,kanand,ECU Reset is working,to test and validate ECU reset,"we can confirm that on issuing 11x01, ORIN Resets","debugging, testing"
+107,109,AEX-150236,SWE3 Fixing CCPLEX to AURIX communication,To test and fix the communication between ccplex and aurix,kanand,Signals originating in CCPLEX being intercepted through CANOE with respective code changes merged,to test communication from CCPLEX to AURIX,messages originating in ccplex reach aurix,"debugging, canoe, autosar adaptive"
+108,110,AEX-146882,Bug Fixing: SIMS-6985,Bug fixing for SIMS-6985 Fixing SOMEIP crashing issues when SWDL application and DiagSrvFcnCcplex coexisting,kanand,Closure of SIMS with respective code changes for both applications to coexist,make code changes,jlr_swdl_application and jlr_diag_srv_fcn_ccplex are able to start together,"debugging, autosar adaptive"
+109,111,AEX-131990,SWE3 Validating Update Scenarios,Validating Update for f124 and f188 packages,kanand,Testing for Update requests,to boot to next bank,update sequences are validated,testing
+110,112,AEX-131979,SWE4 Google Test for SWDL Diagnostic Controller,To fix the existing google tests and write more test cases for SWDL Diagnostic controller in order to achieve higher code coverage,kanand,High code coverage in SWDL Diagnostic Controller Unit tests,write google test cases for SWDL Diagnostic Controller,we get high code coverage,"c++, testing"
+111,113,AEX-131255,"SWE3 Integrating Logger with swdl_application, DAL",To integrate swdl_logger with swdl_application and DAL,kanand,Logger working with DAL and swdl_application,integrate logger with swdl application,we get logs in SWDL log file,c++
+112,114,AEX-130339,SWE4 Google Tests for Network API,To write google test using gtest and gmock for network api files,kanand,High code coverage in Network API files,write google test cases for network api,we get high code coverage,"c++, testing"
+113,115,AEX-129164,SWE4 Google Tests for ISL states,To write google test using gtest and gmock for all the ISL state classes,kanand,90% code coverage for the ISL state classes,write google test cases for ISL,we get 90% code coverage,"c++, testing"
+114,116,AEX-128269,SWE4 GTest for Idle state,Unit test for Idle State using gtest and gmock framework,kanand,Code coverage >= 90% for Idle state,,,"c++, testing"
+115,117,AEX-127185,SWE4 Fixing high CPU usage for SIMS-6823,Problem : Fixing the issue where the CPU usage was going too high causing other applications to crash,kanand,The CPU usage is lowered and other applications do not crash,debugging,,"c++, autosar adaptive"
+116,118,AEX-125727,SWE3 Validate DM to SWDL Application communication,Fix communication between SWDL Application and Diagnostic Manager such that RequestDownload service requests reach SWDL Application,kanand,Communication between Diagnostic manager and SWDL Application is established and requests are received for diagnostic services,to validate the communication between DM and SWDL Application,,"corvus, testing, autosar adaptive"
+117,119,AEX-97704,Integration of Software Update application layer to software update controller for transfer functionality ,"Integration of service 34, 36 and 37 to Software Update controller interfaces",kanand,code to be merged to Gitlab,Integrate Application layer with Software Update controller,DM can trigger core functionality of SW update component,c++
+118,120,AEX-94831,SWE3 Routing Diagnostic service to SWDL,"To merge changes in ccplex_amsr_fs for routing service 34, 36 and 37 to SWDL application",kanand,Changes merged in ccplex_amsr_fs,,,c++
+119,121,AEX-87063,SWE3 Development of SWDL_Aurix Classic application in Aurix,Development of SWDL_Aurix Classic application in Aurix: Definition of ARXML with R-port prototype for signal Modification of Aurix_IPC_Routing to allow incoming signals Building the RTE and flashing onto Aurix for testing,kanand,Merged code for SWDL_application in Aurix repo,to create an autosar application for Aurix,we can use it to get signals from the application in Orin to trigger bootchain switch,autosar classic
+120,122,AEX-62129,SWDL adaptive sample application to test SWDL sequence,Write sample application to establish connection with Diagnostic SW controller-server and trigger update sequence,kanand,test cases to be demonstrated to team,create sample testing  application ,i can test SW update component,"testing, autosar adaptive"
+121,123,AEX-62116,Interfacing of Diagnostic software Controller client with DM,"Involves activities like establishing handler with DM subscribing for services, routine and DID's dummy i/p and o/p handling",kanand,Code to be merged on gitlab,interface with diagnostic manager,can receive service from external tool to perform intended functionality,"c++, testing"
+122,124,AEX-58421,Setting up Vectorcast and DTP tools for tests,Setting up Vectorcast and DTP tools for tests,kanand,"Laptop should be ready with vectorcast and parasoft DTP tools for the workshop_x000D_
+",,,testing
+123,125,AEX-56370,Bootchain configurators for Orin bank switch,We need to implement JLR BootManager on Orin to enable BootChain switch functionality for Dual bank,kanand,,,,c++
+124,126,AEX-40988,SWE3 Configuration of signal for Orin Bank Switch (software-update-orin),To finalize the payload design for communication between Aurix and Orin and to implement the same in S2S interface of the application,kanand,Changes merged into software-update-orin,to add a service interface to swdl_application,we can send signal towards aurix,"c++, autosar adaptive"
+125,127,AEX-40973,Definition of interfaces for Diagnostic component,An ARXML file needs to be drafted and reviewed for the diagnostic component,kanand,ARXML file reviewed,to create an ARXML file for diagnostic component,all the configuration and specification for the diagnostic component is established and agreed upon,autosar adaptive
+126,128,AEX-40971,Create sequence diagrams for Diagnostic Component,"As part of sequence diagrams, individual classes and the communication protocols need to be identified Review of sequence diagrams",kanand,Review of sequence diagrams created within MSOSA,to create sequence diagram for diagnostic component,"the workings, interactions for the component are defined completely",msosa
+127,129,AEX-40643,Define ARXML for SWDL application and implement stub responses,To define ARXML for SWDL application for diagnostic as well as OTA use cases DOD: Define ARXML for SWDL application,kanand,Define ARXML for SWDL application ,to define ARXML for SWDL application,the stub responses can be postulated for incoming requests,"autosar adaptive, c++"
+128,130,AEX-38253,SWE 3 Implementation of D05B DID,We need to add GetSoftwareUpdateStatus and GetSWUpdatePartNo apis to support D05B service,kanand,Code Reviewed and merged in gitlab,,we can support D05B service,c++
+129,131,AEX-38233,Development of boot manager,Creation of a new service interface in SWDL application to support Signal to Service Mapping,kanand,,write a ConnectioHandler class,i can initialise connection to DU-Master,autosar adaptive
+130,132,AEX-38231,AP Autosar sample application and KT,Creation of an adaptive sample application with arxml and methods to be archieved as a example project for any future adaptive application development,kanand,,explore adaptive autosar dev environment,i can find gaps if any with respect to NVIDIA apis and document them ,"autosar adaptive, communication"
+131,133,AEX-21773,SWE3 Integration of bootchain manager for AurixtoCCPLEX,Bootmanager handler to handle Aurixtoccplex S2S,kanand,Merge request raised for handling interactions from AurixToCcplex,to handle interactions from aurixtoccplex,we can handle the incoming signals and take actions in ISL accordingly,c++
+132,134,AEX-159791,SWE3 Fix Static Analysis issues of DAL module of SWDL application with severity error,Fix Static Analysis issues of DAL module of SWDL application with severity error,kpatel27,"Fix Static Analysis issues of DAL module of SWDL application with severity error_x000D_
+",to modify dal code,Static Analysis issues of DAL module of SWDL application with severity errors can be fixed,"Debugging, C++"
+133,135,AEX-159787,SWE3 Support for drop10 HCD pipeline,Add support for drop10 HCD pipeline,kpatel27,"Added support for drop10 HCD pipeline, pipeline passing, jlr_swdl_application running_x000D_
+",to add support for drop10 HCD pipeline,,C++
+134,136,AEX-159785,SWE3 Add support for Klockwork integration in CI pipeline,Add support for Klockwork integration in CI pipeline,kpatel27,"Added support for Klockwork integration in CI pipeline and pipeline passing_x000D_
+",to add support for Klockwork integration in CI pipeline,,debugging
+135,137,AEX-155247,SWE 5 Update SUM Mock clients for Automating  SetPhaseRequest  API with negative scenarios and boundary conditions ,To Update SUM Mock client for automation of SetPhaseRequest API with negative scenarios and boundary conditions,kpatel27,"Updated SUM Mock client with automation of SetPhaseRequest API with negative scenarios and boundary conditions_x000D_
+",To Update Mock client for automation of SetPhaseRequest API with negative scenarios and boundary conditions,,"c++, debugging"
+136,138,AEX-155246,SWE 5 Update SUM Mock clients for Automating QuitRequest & SetCampaignRequest API with negative scenarios and boundary conditions ,To Update SUM Mock client for automation of QuitRequest & SetCampaignRequest API with negative scenarios and boundary conditions,kpatel27,"Updated SUM Mock client with automation of  QuitRequest & SetCampaignRequest API with negative scenarios and boundary conditions_x000D_
+",To Update Mock client for automation of  QuitRequest & SetCampaignRequest API with negative scenarios and boundary conditions,,"c++, debugging"
+137,139,AEX-155245,SWE 5 Update Wired Mock client for Automating GetSwUpdateStatus APIs with negative scenarios and boundary conditions ,Update Mock clients for automation of GetSwUpdateStatus APIs with negative scenarios and boundary conditions,kpatel27,"Updated Wired Mock client with automation of GetSwUpdateStatus APIs with negative scenarios and boundary conditions_x000D_
+",To Update WIred Mock client for automation of GetSwUpdateStatus APIs with negative scenarios and boundary conditions,,"c++, debugging"
+138,140,AEX-155243,SWE 5 Update Wired Mock client for Automating EnableProgrammingSession API with negative scenarios and boundary conditions ,Update Mock clients for negative scenarios and boundary conditions,kpatel27,"Updated Wired Mock client with automation of EnableProgrammingSession APIs with negative scenarios and boundary conditions_x000D_
+",To Update WIred Mock client for automation of EnableProgrammingSession API with negative scenarios and boundary conditions,,"c++, debugging"
+139,141,AEX-153034,KT Session on SWE5 testing to Interns,Transfer Knowledge on the SWE5 testing process using the mock clients on devkit to the Interns,kpatel27,Successfully launch the swdl application and mock clients on devkit with the right assets ,,,communication
+140,142,AEX-148295,SWDL application up and Running on Devkit,Make SWDL application up and Running on Devkit,kpatel27,SWDL application is up and Running on Devkit,,,testing
+141,143,AEX-147847,SWE 5 Update SUM Mock clients for Automating GetSoftwarePartNumberRequest API with negative scenarios and boundary conditions ,To Update SUM Mock client for automation of GetSoftwarePartNumberRequest API with negative scenarios and boundary conditions,kpatel27,"Updated SUM Mock client with automation of  GetSoftwarePartNumberRequest API with negative scenarios and boundary conditions_x000D_
+",To Update Mock client for automation of  GetSoftwarePartNumberRequest API with negative scenarios and boundary conditions,,"c++, debugging"
+142,144,AEX-145932,SWE 5 Drafting test cases for swdl  interfaces,Drafting gherkin test cases for interfaces in SWDL application : BasicIPC_JLR_SWDL_Application_JLR_SWDL_SUM_Client_Sender_Service BasicIPC_JLR_SWDL_Application_JLR_SWDL_Client_Sender_Service,kpatel27,"Test cases mapped to jira tickets_x000D_
+",To create gherkin test cases,,"testing, gherkin"
+143,145,AEX-140330,Validation of Delta Update on Integration DDU builds dev and prod, modify master code and test it SO THAT SOTA Sample DriveUpdate can be verified for delta update using Integration DDUs,kpatel27,Sample DriveUpdate has been validated on TAMS using delta of dev and prod builds and any changes to master code have been checked in to git repo,to modify master code and test it,Sample DriveUpdate can be verified for delta update using Integration DDUs,"testing, debugging"
+144,146,AEX-130313,SWE4 GTest for Network API,To write google test using gtest and gmock for all the network api classes,kpatel27,90% code coverage for the Network API classes,write google test cases for Newtork API classes,we get 90% code coverage,"c++, testing"
+145,147,AEX-126278,SWE3 CLI Tool Development for testing core-sum to networkapi interactions,Develop a cli tool for testing core-sum to networkapi interactions,kpatel27,Raise an MR containing the code changes cli tool for required for testing core-sum to networkapi interactions,,,"c++, cmake"
+146,148,AEX-125911,SWE3 Data Transfer Support in core-sum, test core-sum data transfer SO THAT core-sum sftp integration can be verified,kpatel27,Validation of Data Transfer Support and check in any changes to git repo,to test core-sum data transfer,core-sum sftp integration can be verified,"testing, c++, cmake, autosar adaptive"
+147,149,AEX-118905,SWE3 Fixing the issues of core-sum for SOTA sequence,Identifying and Fixing the issues of core-sum for SOTA sequence,kpatel27,Fixing the issues of core-sum for SOTA sequence and check in any changes to git repo,,,debugging
+148,150,AEX-116874,Modify network api interface to facilitate the SWDL interactions,Modify network api interface to facilitate the SWDL interactions,kpatel27,Create an MR to Modify network api interface to facilitate the SWDL interactions and address all the review comments,,,"c++, autosar adaptive"
+149,151,AEX-94005,Routing network requests from SWDL app to core-sum,Routing network requests from SWDL app to core-sum,kpatel27,Integration on Network API implementation done and checked in to git repo,,,C++
+150,152,AEX-94003,Definitions of service interface arxml for SOTA,Definitions of service interface arxml for SOTA events and methods,kpatel27,Convert network api calls to service interface of SOTA implementation tested and checked -in to git repo,,,"c++, cmake"
+151,153,AEX-40984,Implementation SOTA service interface in SWDL application,Implementation SOTA service interface in SWDL application,kpatel27,Updated SWDL application with SUM source code implemented,,,C++
+152,154,AEX-38234,SWE4 Validation of core-sum with network-api interactions,Validation of core-sum with network-api interactions,kpatel27,"Validation of core-sum with network-api interactions and testing on devkit, check in any changes to git repo",,,"testing, C++"
+153,155,AEX-37094,SWE3 Fixing Compiler Warnings in master branch, modify master code SO THAT major compilation warnings can be fixed,kpatel27,Major Compiler Warnings fixed in master branch and check in changes to git repo,to modify master code,major compilation warnings can be fixed,"debugging, c++"
+154,156,AEX-36772,Developing adaptive autosar jlr_swdl_sum_client,develop an adaptive autosare application client jlr_swdl_sum_client which will be used to test ota software update functionalities of jlr_swdl_application,kpatel27,Sanity Testing Basic IPC communication working,to develop an adaptive autosar application,we can test jlr_swdl_application's ota capabilities,"autosar adaptive, c++"
+155,157,AEX-20198,SWE3 Integration of latest sum release, modify the master code SO THAT latest release (300) of core-sum can be integrated,kpatel27,The latest release of core-sum has been integrated without compilation issues The core-sum interfaces have been tested on Devkit or TAMS Any code changes have been checked in to git repo,modify the master code,latest release (300) of core-sum can be integrated,"C++, cmake, testing"
+156,158,AEX-159855,Integrating vector bootloader source code build in aurix_build,We need to integrate vector bootloader source code build in aurix_build to facilitate PRTI integration,hgarg1,An MR on aurix_build facilitating the change,to integrate vector bootloader source code build in aurix_build,we can make progress on PRTI integration,"c++, cmake"
+157,159,AEX-155236,SWE3 Updating CMakeListtxt files to satisfy the new Ultronbfw version,Make changes in CMakeListtxt files in software-update-orin repository to comply with the new Ultronbfw version,hgarg1,Changes reviewed and an MR ready,to update CMakeList files,it follows the newer version of Ultronbfw,cmake
+158,160,AEX-154982,Fixing the current bootchain selection in ISL,Currently there is a bug in ISL where we don't properly select the correct bootchain The aim is to fix it and test it using the available client tools,hgarg1,Code changes merged in master,to fix the current bootchain selection bug,we can have a successful activation,"c++, debugging"
+159,161,AEX-150218,SWE3 Generate and validate the F124 package,To have a discussion with Niranjan and figure out how are they generating the partition for f124 and our strategy to generate a f124 tar package for update via our application,hgarg1,A working f124 package,to understand the calibration update requirements,we can make an appropriate F124 package,"python, communication"
+160,162,AEX-140132,SWE 3 Add validation support in ISL,To add validation support in ISL,hgarg1,Tested and merged code in gitlab,to add validation support in ISL,we can validate what we write in DADC,c++
+161,163,AEX-131996,SWE 3 DAL implementation for validation,Make code changes to support authentication,hgarg1,Code merged and tested,to make changes in dal,dal supports validation,c++
+162,164,AEX-131986,Cysec - POC for signed image update as per JLR signing strategy- ,Provide a proof of concept for signed image update as per JLR signing strategy We need to showcase if the authenticator plugin by NVIDIA can or cannot be used for authentication as per JLR requirements,hgarg1,Proof of concept for signed image update using NVIDIA authenticator plugin,to check the usability of authenticator plugin for JLR requirements,we can make a decision going forward what if we need to use the ara crypto stack ,c++
+163,165,AEX-129186,SWE 3DAL support for authentication,As a Developer i want Code changes to be done for so that dal support is done for sample drive update,hgarg1,sample drive update done succesfully after the code changes,Code changes would be done,sample drive update works on both TAMS and devkit using the generated package with dupkg,c++
+164,166,AEX-125903,Putting Devkit on a working version,With the current version of devkit sample_driveupdate isn't working which hinders testing So we need to find the working version of the avos release,hgarg1,Document the working version and check if sample_driveupdate is running properly,to make sure devkit is on the correct working version,applications like sample_driveupdate are running properly,debugging
+165,167,AEX-117027,SWE 3 Update Payload size from 64kb to 15 mb in SWDiag controller,To change the current payload from 64 kb to 15 mb,hgarg1,Merged code in drop 6b branch and an extra patch for master branch as well,to update the payload size,we can achieve faster transfer speed,"debugging, c++"
+166,168,AEX-116685,SWE 4 Validate SWDL Delta based Update,Validate SWDL for Delta based Update Use sample delta images to test the ISL and DAL sequence for delta update image,hgarg1,SWDL application validated for end to end sequence of delta update,,,"python, testing"
+167,169,AEX-97753,SWE5 - Validation of Signed image update,Orin Full Image update with signed ddu  ,hgarg1,working signed image update,to test full image update with signed ddu,we can confirm the working of signed image update,"testing, debugging"
+168,170,AEX-97710,SWE4 Modifying package generation script for singed image generation,We need to modify the package generation script to create a signed f188 image ,hgarg1,Modified script merged in master,to modify the package generation script,we can generate a signed f188 package,python
+169,171,AEX-77093,Design High Level Sequence diagrams for SWDL in MSOSA for DAL,Sequence diagram are needed for the DAL (DriveUpdate Abstraction Layer) component to understand the interactions between different modules within DAL,hgarg1,"ISL Sequence diagrams put into MSOSA, reviewed and review comments fixed",to create sequence diagrams for DAL,interactions between DAL modules can be recorded,msosa
+170,172,AEX-74478,Develop mock adaptive autosar application,Develop mock adaptive autosar application,hgarg1,Mock adaptive autosar application is available,,,"autosar adaptive, c++"
+171,173,AEX-74404,Access the zlib solution suggested in QNX,We need to access the current solution for using zlib in qnx for our usecase,hgarg1,Final understanding on if we will be using this particular solution,,,debugging
+172,174,AEX-74403,Reviewing the untarh for tar file reading,We need to understand the library and assess if it can be used for working with a tar ball,hgarg1,Final decision on if we will be using this library moving ahead,to test the library,I can understand if the library can be useful in dealing with a targz file,testing
+173,175,AEX-74399,Identify the possible libraries that can be used to extract and read targz file in QNX,Identify the possible libraries that can be used to extract and read targz file in QNX,hgarg1,List of all the libraries etc that can be used,to identify the libraries that support reading tar file without extraction in qnx,it can facilitate calibrate and other apis,debugging
+174,176,AEX-62222,GCoverage for Diagnostic Controller,DAL code written needs to be optimized and checked for edge cases,hgarg1,MR raised for optimized code,to optimize the DAL code and make it robust,it serves the required functionality in an efficient manner,"c++, testing"
+175,177,AEX-62137,Gtest of Diagnostic SW controller-server ,Writing of mock classes for other layers and writing test cases,hgarg1,unit testing of Diagnostic SW controller -server,write mock classes and test cases,Diagnostic SW controller-server component can be tested effectively,"c++, testing"
+176,180,AEX-50086,Adding CMake support for both ultron and linux,To understand the gap in requirements and address them accordingly,hgarg1,Updated TRM requirements,to edit TRM requirements,I can address the gaps in those requirements,"cmake, trm"
+177,181,AEX-50076,Prepare ServeFile of Content server for Drive Update Abstraction layer,Content server is used to serve files from gos We have to define the serve file functionality of content server to start serving the file Commited code on gitlab,hgarg1,,,,c++
+178,182,AEX-43857,To complete the high level review of the diagnostic component,"Draft the TRM requirements for a diagnostic component and get it peer reviewed, Adding review comments on TRM and addressing them",hgarg1,Comments on TRM and reviewing those Comments,to write requirements for Diagnostic component,we can progress in SWE 1 ASPICE requirements,trm
+179,183,AEX-43853,To collaborate on the Update phases of Diagnostic Component,"To write requirements for diagnostic comments and review the first draft of the requirements, Adding comments on TRM and reviewing them",hgarg1,Comments on TRM and reviewing those Comments,to write requirements for Diagnostic component,we can progress in SWE 1 ASPICE requirements,trm
+180,184,AEX-43828,To complete final review of the lifecycle Manager,To review the final draft of the requirements and Add new comments in TRM and review them,hgarg1,,to write requirements for LifeCycleManager,we can progress in SWE 1 ASPICE requirements,trm
+181,185,AEX-43825,To complete high level review of the lifecycleManager,"Draft requirements and complete a high level review of LifeCycleManager, and Add comments in TRM and review the comments",hgarg1,,to write requirements for LifeCycleManager,we can progress in SWE 1 ASPICE requirements,trm
+182,186,AEX-41008,Prepare a sequence diagram for SW update architecture,"SW update has various components and it is important to identify how these components communicate with each other so that all the design decisions and requirements identified on system and SWE 1 level are satisfied hence, a sequence diagram is necessary for proper understanding of how each SW component behaves",hgarg1,,to prepare a sequence diagram,we can have a common understanding of how each component identified behaves and comunicate with each other,msosa
+183,187,AEX-41003,Identify the interface for ISL - OTA,"ISL is communicating with various different SW components We have to define the interface for ISL for the same, Prepare a ICD diagram in MSOSA listing interfaces of ISL for OTA update",hgarg1,"Prepare a confluence page for the interface identified, Review with the team and address the review comments",to prepare the interface for ISL,development of other software components can proceed based on the interface provided by ISL,"msosa, communication"
+184,188,AEX-40991,SWE 3 GTest Suite for PushMode Handler of DAL,Design the GTest suite for PushMode Handler of DAL,hgarg1,Design the GTest suite for Push Mode Handler of DAL,,,"c++, testing"
+185,189,AEX-40989,Prepare BDD for SWDL software in MSOSA,"Prepare an Activity diagram describing the workflow of ISL We also have to make sure that the Responsibilities identified for ISL are properly satisfied
+",hgarg1,Updated BDD in MSOSA,update BDD in MSOSA,we can have a proper flow of component which is also compliant with the requirements identified in SWE 1,msosa
+186,190,AEX-40987,Add synchronisation support for DAL,Add synchronisation support in pushmode handler cc files,hgarg1,Add synchronisation support in pushmode handler cc files,to add synchronisation support for DAL,we are able to successfully synchronise the partitions after an update,c++
+187,191,AEX-40983,Integration of SWDL components,Integrate the SWDL component into SWDL Adaptive AUTOSAR application to facilitate the diagnostic wired update,hgarg1,Code merged with master,to integrate the SWDL component with software update,we can test software update,"c++, cmake"
+188,192,AEX-40978,GTest of Diagnostic Controller,"Develop, test and review Abstraction layer for Nvidia Drive Update the developed code must be checked into git",hgarg1,"Abstraction layer for Nvidia developed, tested and reviewed,  and checked into git",to test the ISL DAL integration,we can release tested quality code,"c++, testing"
+189,193,AEX-38237,Draft SWE1 Software Requirements for Diagnostic Component,Draft SWE1 Software Requirements for Diagnostic Component for module : service implementation(SOMEIP) for UDS server application,hgarg1,SWE level requirements for Diagnostic component drafted in TRM,to draft swe level requirements for Diagnostic component,"we can complete SWE1 and move ahead to SWE2,3",trm
+190,194,AEX-36284,Enable and Disable Push Mode in DriveUpdate,Add Enable and Disable push mode support in PushModeHandler class,hgarg1,"Add Enable and Disable push mode support in PushModeHandler class, Merge the code with the master branch of the project in gitlab",to update add enable and disable pushmode support for DAL,we are able to get into push mode for diagnostic software update of orin,c++
+191,195,AEX-36263,Prepare a Life cycle manager,In order to maintain the life cycle of OTA or Diagnostic software update instance we planned to create a life cycle manager,hgarg1,"prepare a class diagram for Life cycle manager Address review comments, update the class diagram in MSOSA",to create a life cycle manager,we can maintain the OTA and diagnostic instances,msosa
+192,196,AEX-34050,Complete task runner class diagram,"The processes will be running on various different threads and we need a common class to handle all the tasks on those threads which can be used by ISL, Thread class diagram, update it in MSOSA",hgarg1,"Thread class diagram, update it in MSOSA",to find define classes for task runner,we can use these in our ISL implementation,msosa
+193,197,AEX-34044,Complete thread class diagram,The processes will be running on various different threads and we need a common class to handle all the thread related activities which can be used by ISL : Thread class diagram,hgarg1,Thread and task runner class diagram,to find define classes for thread ,we can use these in our ISL implementation,msosa
+194,198,AEX-34030,Create ISL abstraction layer,"For a working demo for ISL, we plan on creating a class diagram for abstraction layer for ISL and SUM This would involve identifying different classes and their relations, All the classes defined as part of the abstraction layer",hgarg1,All the classes defined as part of the abstraction layer,to find classes for update process for communication between ISL and SUM,we can have an abstraction layer for the same,c++
+195,199,AEX-34023,Completion of DRIVE VM abstraction layer,"For a working demo for ISL, we plan on creating a class diagram for DriveVM APIs This would involve idenitfying different classes within the sample_driveupdate code and mapping relations between them, All the classes defined as part of the abstraction layer",hgarg1,All the classes defined as part of the abstraction layer,to create classes for update process based on sample_driveupdatec  ,we can have an abstraction layer for the NVIDIA drive update,"c++, cmake"
+196,200,AEX-33287,Creating Class objects for sample_driveupdate,"We need to create class diagrams for DriveVM APIs As this would help us in Abstraction and tracking changes in the API in future, Presenting the Classes and their functionalities to the team and addressing the review comments",hgarg1,,to identify classes for drive update,class diagrams can be created based on their interactions,msosa
+197,201,AEX-33058,Create State Machine Template,To create a state machine template for ISL Class diagram,hgarg1,Class diagram of the template class,to prepare a state machine template,we can use the template to create class diagram and final state machine,msosa
+198,202,AEX-30629,Compose System boundary diagram (SYS1-2) ,"Capture how each capability, as identified in SYS-2, interact with each other, System Boundary diagram in MSOSA",hgarg1,System Boundary diagram in MSOSA,to compose System boundary diagram in MSOSA,we can conclude sys1-sys2 requirements ,msosa
+199,203,AEX-30627,Capability decomposition for HandleOTAInstallation,"HandleOTAInstallation is one of the Capabilities identified for sys-2 level We need to decompose it into the functional blocks and prepare the activitiy diagram as per the ASPICE requirements, MSOSA activity diagram for HandleOTAInstallation",hgarg1,MSOSA activity diagram for HandleOTAInstallation,to decompose HandleOTAInstallation,we can conclude sys2-sys3 requirements for a particular capabiltiy,"msosa, communication"
+200,204,AEX-30626,Capability decomposition for ManageSoftwareupdate,"ManageSofwareupdate is one of the Capabilities identified for sys-2 level We need to decompose it into the functional blocks and prepare the activitiy diagram as per the ASPICE requirements, MSOSA activity diagram for ManageSoftwareupdate",hgarg1,MSOSA activity diagram for ManageSoftwareUpdate,to decompose ManageSoftwareUpdate,we can conclude sys2-sys3 requirements for a particular capabiltiy,"msosa, communication"
+201,205,AEX-30625,Capability decomposition for ManageTargetECU,"ManageTargetECU is one of the Capabilities identified for sys-2 level We need to decompose it into the functional blocks and prepare the activitiy diagram as per the ASPICE requirements, MSOSA activity diagram for ManageTargetECU ",hgarg1,MSOSA activity diagram for ManageTargetECU ,to decompose ManageTargetECU,we can conclude sys2-sys3 requirements for a particular capabiltiy,msosa
+202,206,AEX-29814,To draft the class diagram for ORIN ISL,"Create class diagrams for ISL, class definitions created and association between classes identified, interactions with SUM and other dependencies identified, and class diagram created with corresponding information",hgarg1,Classes drafted and reviewed,to draft class diagrams for ISL,it can be shared with dependencies and help in implement ISL,msosa
+203,207,AEX-28851,Hands on SWE level artefacts identified for ISL,Should review and understand SWE level artefacts for ISL,hgarg1,,go review the SWE level artefacts already identified for ISL,i can understand ISL APIs,communication
+204,208,AEX-28834,SWE1 Refine SWUpdate Phases and LifeCycle requirements,Refine SWUpdate Phases and LifeCycle requirements,hgarg1,Refined and requirements released for SWUpdate phases and Lifecycle,to refine SWUpdate phases and lifecycle requirements,SWE1 stays updated with SWE3,"trm, communication"
+205,209,AEX-26925,Review CMakeListstxt for Sample apps drive Update,To draft the CMakelists for sample drive update sample and upload the merge request in gitlab,hgarg1,,,,cmake
+206,210,AEX-26923,Review SYS-2 changes in MSOSA based on STJLR18199,MSOSA should have all the changes updated as identified in review of STJLR18199,hgarg1,,Review MSOSA SYS-2 diagrams,all the changes are incorporated as identified in the review of STJR18199,msosa
+207,211,AEX-26922,Incorporating OTA STJLR document into MSOSA on SYS 2,"Updated sys 2 diagrams based on STJLR-18-199
+",hgarg1,,Incorporate STJLR-18-199 to MSOSA,We can verify requirements are properly incorporated in MSOSA diagrams ,msosa
+208,212,AEX-26063,To draft the master CMakeLists for nvidia drive update samples,"To draft the master CMakeListstxt file for below subprojects: content_server, remote_content_provider, sample-du-installer, sample_client_app. To include the sub projects and build the respective subfolder",hgarg1,,to draft the master CMakeListstxt for all sub projects of nvidia samples,the binaries for respective sample applications can be generated,cmake
+209,213,AEX-25707,Prepae CMakeLists for Sample-du-installer and Content server,"It is easier to control the build project using CMakeLists hence, we have to prepare CMakeLists for sample-du-installer and content_server to support these subprojects. Prepare CMakeListstxt files using MakeFile already present",hgarg1,,to prepare CMakeLists for content_server and sample-du-installer,we can support the respective subproject,cmake
+210,214,AEX-23848,To deliver the overall sessions on SYS level artifacts drafted for SW update ,"To deliver a detailed session for SYS level artifacts drafted for SW Update in MSOSAA, and a  detailed session for internal team members for initial RAMP Up activity",hgarg1,,to deliver a session on SYS level artifacts on SW update,the internal team can understand the current progress,msosa
+211,215,AEX-23535,SWE 3 Preevision model for jlr_swdl_sota_client mock application,jlr_swdl_sota_client mock application will test the SOTA routine sequences and will finally be replaced by SUM,hgarg1,json file with all the methods and to be sent to ccplex for prevision,to create a mock jlr_swdl_sota client,we can simulate the SOTA routine,"autosar adaptive, communication"
+212,216,AEX-23534,Training for TRM and get write access TRM request,"To review the training materials provided for TRM and get accustomed with the usage, To request approval for TRM  Write access",hgarg1,,to get well versed with TRM traininh,it will facilitate to draft requirements in the upcoming sprints,"trm, communication"
+213,217,AEX-23115,Implement the PushModeHandler Class for DAL,Header and CC files of the implementation. Merged with the master on gitlab,hgarg1,Header and CC files of the implementation. Merged with the master on gitlab,,,c++
+214,218,AEX-23104,Develop a basic Adaptive Autosar application client,To develop adaptive autosar application ,hgarg1,A basic adaptive autosar application is able to run,,,"autosar adaptive, c++"
+215,219,AEX-23077,Explore Harman Delta Image update mechanism,Understand the Harman delta generator on PIVI. Identify the dependencies of the delta generator. Compare the delta generator with NVIDIA delta generator,hgarg1,,to explore Harman delta image update,so that we can understand and compare the delta generator,communication
+216,220,AEX-23076,Identify the interface of ISL - Diagnostic,"Create class diagrams for ISL. Prepare a ICD diagram in MSOSA listing interfaces of ISL for Diagnostic update, Review with the team and address the review comments",hgarg1,Artefacts created in MSOSA,ICD diagram of ISL for Diagnostic Update,it can be shared with dependencies and help in implement ISL,msosa
+217,221,AEX-21932,SYS2-SYS3 Functional decomposition for software update,"To draft the following sys3 documentation. Functional architectural diagram. system partitioning diagram, Interface control document, Traceability between capabilities and functions",hgarg1,,"To get have a functional architecture diagram, Interface control diagram, system partitioning diagram, ",we can conclude sys2-sys3 requirements for a particular capabiltiy,msosa
+218,222,AEX-16487,SYS1-SYS3 diagrams for ORIN OTA update,SYS1-SYS3 diagrams for ORIN OTA update uploaded in MSOSA ,hgarg1,,,,msosa
+219,223,AEX-16485,SW flash and hands-on for memory layout on devkit,"Full image update is one of the ways to update the ORIN devkit Having a hands-on knowledge of the process is crucial for the team We should go through the documentation and perform a full image update, trying full image update using the documented steps to get familiar with Orin dev kit",hgarg1,Completion of full image update using the documented steps,go through the documented steps of full image update,I can get familiar with the devkit and perform a full image update,communication

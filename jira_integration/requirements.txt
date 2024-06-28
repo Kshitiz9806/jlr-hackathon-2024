@@ -1,0 +1,10 @@
+configparser
+jsons
+time
+sys
+jira
+atlassian-python-api
+csv
+numpy
+pandas
+requests
